@@ -1,8 +1,12 @@
 # CS330-CompGraphicVisualization
 
+Anthony Hackman
+
 ## OpenGL, C++
 
-### Portfolio item from Fall 2025 CS330 Comp. Graphic and Visualization. This project is a rendered 3D Scene, built with OpenGL, and utilizing C++
+2025 C-5 (Sep - Oct)
+
+Portfolio item from CS330 Comp. Graphic and Visualization. This project is a rendered 3D Scene, built with OpenGL, and utilizing C++
 
 ### How do I approach designing software?
 
